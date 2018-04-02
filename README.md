@@ -1,2 +1,2 @@
 # RetrofitTest
-Retrofit Sample
+Simple Retrofit Sample (Using openweather data + json object)
